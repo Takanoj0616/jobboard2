@@ -4,7 +4,8 @@ Web上で求人情報の作成、応募が行えるシステムの開発を行�
 Springについて理解するために、Springに搭載されている機能を作り作成する。 
 
 # DEMO
-<img width="212" alt="image" src="https://user-images.githubusercontent.com/60534220/148329394-6e2c55ee-d1d7-44fd-9584-ecb86bf4d9ae.png">
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/60534220/148329478-a6551b92-e833-4e2d-b9b8-2e54386fb1a2.png">
+
 
 
 
