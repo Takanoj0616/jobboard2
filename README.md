@@ -20,21 +20,10 @@ Springについて理解するために、Springに搭載されている機能�
 
 "hoge"のセールスポイントや差別化などを説明する
 
-# Requirement
-
-"hoge"を動かすのに必要なライブラリなどを列挙する
-
+# 環境
 
 * Ecripse　Version: 2021-12 (4.22.0)
-* hogehuga 1.0.2
-
-# Installation
-
-Requirementで列挙したライブラリなどのインストール方法を説明する
-
-```bash
-pip install huga_package
-```
+* 開発言語　Java 8
 
 # Usage
 
@@ -50,19 +39,7 @@ python demo.py
 
 注意点などがあれば書く
 
-# Author
+#　作成者
 
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
-
-# License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
+* 高野純一
+* 東京第二支店A23チーム
