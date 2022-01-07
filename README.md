@@ -29,15 +29,8 @@ https://drive.google.com/file/d/1axZ7kbgfkNA_zJPcxUaRS0MZN4C-QtOX/view?usp=shari
 * Ecripse　Version: 2021-12 (4.22.0)
 * 開発言語　Java 8
 
-# Usage
-
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+# テスト仕様
+https://drive.google.com/file/d/1k-c3mFmvyTmHKoFwbdjax2BPp9JR4Sy2/view?usp=sharing
 
 # 作成者
 
