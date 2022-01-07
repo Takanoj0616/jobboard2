@@ -3,6 +3,11 @@
 Web上で求人情報の作成、応募が行えるシステムの開発を行い、企業と求職者のマッチングを支援する。
 Springについて理解するために、Springに搭載されている機能を作り作成する。 
 
+
+# 詳しい内容
+https://drive.google.com/file/d/1axZ7kbgfkNA_zJPcxUaRS0MZN4C-QtOX/view?usp=sharing
+
+
 # ユースケース図・機能
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/60534220/148329478-a6551b92-e833-4e2d-b9b8-2e54386fb1a2.png">
 
